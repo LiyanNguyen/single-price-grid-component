@@ -8,8 +8,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 
 ### Links
-- Solution URL: https://github.com/LiyanNguyen/single-price-grid
-- Live Site URL: https://liyannguyen.github.io/single-price-grid
+- Solution URL: https://github.com/LiyanNguyen/single-price-grid-component
+- Live Site URL: https://storied-banoffee-5b36d1.netlify.app/
 
 ### Built with
 - Semantic HTML5 markup
